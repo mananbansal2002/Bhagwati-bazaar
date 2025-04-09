@@ -1,0 +1,55 @@
+# Robots.txt for Bhagwati Bazaar
+# https://bhagwatibazaar.com
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandexbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# Social media crawlers
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterest
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Block specific private or admin areas
+User-agent: *
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /my-account/
+Disallow: /wp-admin/
+Disallow: /includes/
+Disallow: /cgi-bin/
+Disallow: /*?s=*
+Disallow: /*?p=*
+
+# Allow everything else for all other bots
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://bhagwatibazaar.com/sitemap.xml
+Sitemap: https://bhagwatibazaar.com/sitemap-products.xml
