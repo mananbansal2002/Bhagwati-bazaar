@@ -141,3 +141,7 @@
     @apply w-full h-full object-cover transition-transform duration-700 ease-in-out;
   }
 }
+
+.slow-spin {
+  animation: spin 2s linear infinite;
+}
