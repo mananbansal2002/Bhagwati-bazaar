@@ -145,3 +145,12 @@
 .slow-spin {
   animation: spin 2s linear infinite;
 }
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.slow-spin {
+  animation: spin 2s linear infinite;
+}
