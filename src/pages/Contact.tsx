@@ -33,7 +33,7 @@ const Contact = () => {
                 Plot No.1, Block-C, 40 Feet Road, Chanakyapuri, New Delhi-110059
               </p>
               <a
-                href='https://maps.google.com/?q=Plot+No.1,+Block-C,+40+Feet+Road,+Chanakyapuri,+New+Delhi-110059'
+                href='https://maps.google.com/?q=Bhagwati-bazaar'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='inline-flex items-center text-yellow-600 hover:text-yellow-700'
@@ -154,14 +154,14 @@ const Contact = () => {
             </h3>
             <div className='aspect-video w-full rounded-lg overflow-hidden'>
               <iframe
-                src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.2733424917444!2d77.17899955!3d28.624598500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d032e1b8d15c3%3A0xbcd7b358c0be4c03!2sChanakyapuri%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1656660980000!5m2!1sen!2sin'
+                src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.588556274156!2d77.0716187!3d28.6114177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0502afaeb49f%3A0x88c020d77761af43!2sBHAGWATI%20BAZAAR!5e0!3m2!1sen!2sin!4v1712736336502!5m2!1sen!2sin'
                 width='100%'
                 height='100%'
                 style={{ border: 0 }}
                 allowFullScreen={true}
                 loading='lazy'
                 referrerPolicy='no-referrer-when-downgrade'
-              ></iframe>
+              />
             </div>
           </div>
         </div>
