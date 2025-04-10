@@ -6,8 +6,7 @@ const slides = [
     id: 1,
     title: 'Fresh Products',
     description: 'Discover the finest quality products from premium brands.',
-    image:
-      'https://images.unsplash.com/photo-1573246123716-6b1782bfc499?q=80&w=2070&auto=format&fit=crop',
+    image: '/images/hero1.jpg',
     ctaText: 'Order Now',
     ctaLink: 'https://forms.google.com/order-form',
   },
@@ -26,8 +25,8 @@ const slides = [
     title: 'Special Offers & Deals',
     description:
       'Take advantage of our weekly special offers and exclusive deals.',
-    image:
-      'https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1974&auto=format&fit=crop',
+    image: '/images/hero2.jpg',
+
     ctaText: 'Order Now',
     ctaLink: 'https://forms.google.com/order-form',
   },
@@ -55,7 +54,7 @@ const Hero = () => {
             index === currentSlide ? 'opacity-100' : 'opacity-0'
           }`}
         >
-          <div className='absolute inset-0 bg-black/30 z-10' />
+          <div className='absolute inset-0 bg-black/20 z-10' />
           <img
             src={slide.image}
             alt={slide.title}

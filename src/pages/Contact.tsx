@@ -49,6 +49,7 @@ const Contact = () => {
               </div>
               <h3 className='font-semibold mb-2 text-gray-900'>Phone</h3>
               <p className='text-gray-600 mb-3'>+91 99688 02907</p>
+              <p className='text-gray-600 mb-3'>011-48026274</p>
               <a
                 href='https://wa.me/919968802907'
                 target='_blank'
@@ -72,9 +73,9 @@ const Contact = () => {
                 <Mail className='w-8 h-8 text-yellow-600' />
               </div>
               <h3 className='font-semibold mb-2 text-gray-900'>Email</h3>
-              <p className='text-gray-600 mb-3'>contact@bhagwatibazaar.com</p>
+              <p className='text-gray-600 mb-3'>Bhagwatibazaar@gmail.com</p>
               <a
-                href='mailto:contact@bhagwatibazaar.com'
+                href='mailto:Bhagwatibazaar@gmail.com'
                 className='inline-flex items-center text-yellow-600 hover:text-yellow-700'
               >
                 Send Email

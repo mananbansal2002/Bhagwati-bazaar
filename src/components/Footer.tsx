@@ -31,23 +31,25 @@ const Footer = () => {
             </p>
             <div className='flex space-x-4'>
               <a
-                href='#'
+                href='https://www.facebook.com/profile.php?id=61555311236664'
+                target='_blank'
                 className='w-10 h-10 rounded-full bg-white shadow-sm flex items-center justify-center transition-colors duration-300 hover:bg-yellow-500 hover:text-white'
               >
                 <Facebook className='w-5 h-5' />
               </a>
               <a
-                href='#'
+                href='https://www.instagram.com/bhagwatibazaar'
+                target='_blank'
                 className='w-10 h-10 rounded-full bg-white shadow-sm flex items-center justify-center transition-colors duration-300 hover:bg-yellow-500 hover:text-white'
               >
                 <Instagram className='w-5 h-5' />
               </a>
-              <a
-                href='#'
+              {/* <a
+                href='https://www.instagram.com/bhagwatibazaar'
                 className='w-10 h-10 rounded-full bg-white shadow-sm flex items-center justify-center transition-colors duration-300 hover:bg-yellow-500 hover:text-white'
               >
                 <Twitter className='w-5 h-5' />
-              </a>
+              </a> */}
             </div>
           </div>
 
@@ -126,9 +128,7 @@ const Footer = () => {
               </li>
               <li className='flex items-center'>
                 <Mail className='w-5 h-5 text-yellow-600 mr-3' />
-                <span className='text-gray-600'>
-                  contact@bhagwatibazaar.com
-                </span>
+                <span className='text-gray-600'>Bhagwatibazaar@gmail.com</span>
               </li>
               <li className='flex items-start'>
                 <Clock className='w-5 h-5 text-yellow-600 mr-3 mt-0.5' />
@@ -148,7 +148,7 @@ const Footer = () => {
               © {new Date().getFullYear()} Bhagwati Bazaar. All rights reserved.
             </p>
             <div className='mt-4 md:mt-0'>
-              <ul className='flex items-center space-x-6'>
+              {/* <ul className='flex items-center space-x-6'>
                 <li>
                   <Link
                     to='/privacy'
@@ -165,7 +165,7 @@ const Footer = () => {
                     Terms of Service
                   </Link>
                 </li>
-              </ul>
+              </ul> */}
             </div>
           </div>
         </div>
