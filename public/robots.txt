@@ -53,3 +53,5 @@ Allow: /
 # Sitemaps
 Sitemap: https://bhagwatibazaar.com/sitemap.xml
 Sitemap: https://bhagwatibazaar.com/sitemap-products.xml
+Sitemap: https://bhagwatibazaar.com/sitemap2.xml
+Sitemap: https://bhagwatibazaar.com/sitemap3.xml
