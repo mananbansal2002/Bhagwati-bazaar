@@ -8,7 +8,7 @@ const slides = [
     description: 'Discover the finest quality products from premium brands.',
     image: '/images/hero1.jpg',
     ctaText: 'Order Now',
-    ctaLink: 'https://forms.google.com/order-form',
+    ctaLink: 'https://forms.gle/nQ6on2wxQh1iQ6C67',
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const slides = [
     image:
       'https://images.unsplash.com/photo-1578916171728-46686eac8d58?q=80&w=1974&auto=format&fit=crop',
     ctaText: 'Order Now',
-    ctaLink: 'https://forms.google.com/order-form',
+    ctaLink: 'https://forms.gle/nQ6on2wxQh1iQ6C67',
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const slides = [
     image: '/images/hero2.jpg',
 
     ctaText: 'Order Now',
-    ctaLink: 'https://forms.google.com/order-form',
+    ctaLink: 'https://forms.gle/nQ6on2wxQh1iQ6C67',
   },
 ];
 

@@ -65,7 +65,7 @@ const Order = () => {
               <Button className='bg-yellow-500 hover:bg-yellow-600 text-black font-medium'>
                 <ShoppingCart className='w-5 h-5 mr-2' />
                 <a
-                  href='https://forms.google.com'
+                  href='https://forms.gle/nQ6on2wxQh1iQ6C67'
                   target='_blank'
                   rel='noopener noreferrer'
                   className='inline-flex items-center'

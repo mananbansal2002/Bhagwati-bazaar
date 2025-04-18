@@ -369,7 +369,7 @@ const Offers = () => {
                 WhatsApp: Send "Hi" to 9968802907
               </a>
               <a
-                href='https://forms.google.com/order-form'
+                href='https://forms.gle/nQ6on2wxQh1iQ6C67'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='flex items-center bg-yellow-600 text-white px-4 py-2 rounded hover:bg-yellow-700 transition-colors w-full justify-center'
