@@ -15,7 +15,7 @@ const About = () => {
                 About Us
               </span>
               <h2 className='font-display text-3xl md:text-4xl font-bold mb-6 text-gray-900'>
-                Bhagwati Bazaar: Since 1997
+                BHAGWATI BAZAAR: Since 1997
               </h2>
               <p className='text-gray-700 mb-4'>
                 Founded with a passion for quality and community, Bhagwati
@@ -55,7 +55,7 @@ const About = () => {
             <div>
               <img
                 src='/images/store-front.jpg'
-                alt='Bhagwati Bazaar Storefront'
+                alt='BHAGWATI BAZAAR Storefront'
                 className='w-full max-h-[550px] object-cover rounded-lg shadow-lg mb-6'
               />
 

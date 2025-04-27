@@ -23,7 +23,7 @@ const Terms = () => {
                 1. Introduction
               </h2>
               <p className='text-gray-700 mb-6'>
-                Welcome to Bhagwati Bazaar. These terms and conditions outline
+                Welcome to BHAGWATI BAZAAR. These terms and conditions outline
                 the rules and regulations for the use of our website and
                 services.
               </p>
@@ -33,7 +33,7 @@ const Terms = () => {
               </h2>
               <p className='text-gray-700 mb-6'>
                 By accessing this website, we assume you accept these terms and
-                conditions in full. Do not continue to use Bhagwati Bazaar's
+                conditions in full. Do not continue to use BHAGWATI BAZAAR's
                 website if you do not accept all of the terms and conditions
                 stated on this page.
               </p>
@@ -42,7 +42,7 @@ const Terms = () => {
                 3. License
               </h2>
               <p className='text-gray-700 mb-6'>
-                Unless otherwise stated, Bhagwati Bazaar and/or its licensors
+                Unless otherwise stated, BHAGWATI BAZAAR and/or its licensors
                 own the intellectual property rights for all material on this
                 website. All intellectual property rights are reserved.
               </p>

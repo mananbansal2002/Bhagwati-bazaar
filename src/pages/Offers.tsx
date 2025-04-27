@@ -264,7 +264,7 @@ const Offers = () => {
 
                     <img
                       src={image.url}
-                      alt={`Bhagwati Bazaar Offer ${index + 1}`}
+                      alt={`BHAGWATI BAZAAR Offer ${index + 1}`}
                       className='w-full h-auto'
                       onLoad={() => handleImageLoad(image.public_id)}
                       onError={() => handleImageError(image.public_id)}

@@ -71,7 +71,7 @@ const CategoryShowcase = () => {
             What We Offer
           </h2>
           <p className='text-gray-600 max-w-2xl mx-auto'>
-            At Bhagwati Bazaar, we provide a range of services designed to make
+            At BHAGWATI BAZAAR, we provide a range of services designed to make
             your shopping experience convenient, enjoyable, and tailored to your
             needs.
           </p>

@@ -34,15 +34,15 @@ const Navbar = () => {
           >
             <img
               src='logo.png'
-              alt='Bhagwati Bazaar Logo'
+              alt='BHAGWATI BAZAAR Logo'
               className='h-12 w-12 mr-2'
             />
             <div>
               <span className='font-display text-2xl md:text-3xl font-bold tracking-tight text-gray-900'>
-                Bhagwati Bazaar
+                BHAGWATI BAZAAR
               </span>
               <p className='text-sm text-yellow-600 font-medium'>
-                Vishwaas ka dusra naam
+                विश्वास का दूसरा नाम
               </p>
             </div>
           </Link>
@@ -127,15 +127,15 @@ const Navbar = () => {
             >
               <img
                 src='logo.png'
-                alt='Bhagwati Bazaar Logo'
+                alt='BHAGWATI BAZAAR Logo'
                 className='h-10 w-10 mr-2'
               />
               <div>
                 <span className='font-display text-2xl font-bold tracking-tight text-gray-900'>
-                  Bhagwati Bazaar
+                  BHAGWATI BAZAAR
                 </span>
                 <p className='text-sm text-yellow-600 font-medium'>
-                  Vishwaas ka dusra naam
+                  विश्वास का दूसरा नाम
                 </p>
               </div>
             </Link>

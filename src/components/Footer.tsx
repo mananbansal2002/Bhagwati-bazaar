@@ -20,10 +20,10 @@ const Footer = () => {
               to='/'
               className='font-display text-2xl font-bold mb-6 inline-block text-gray-900'
             >
-              Bhagwati Bazaar
+              BHAGWATI BAZAAR
             </Link>
             <p className='text-gray-600 mb-2 text-sm font-medium'>
-              Vishwaas ka dusra naam
+              विश्वास का दूसरा नाम
             </p>
             <p className='text-gray-600 mb-6'>
               Your one-stop destination for premium groceries and household
@@ -145,7 +145,7 @@ const Footer = () => {
         <div className='container mx-auto px-4 md:px-6 py-6'>
           <div className='flex flex-col md:flex-row justify-between items-center'>
             <p className='text-gray-600 text-sm'>
-              © {new Date().getFullYear()} Bhagwati Bazaar. All rights reserved.
+              © {new Date().getFullYear()} BHAGWATI BAZAAR. All rights reserved.
             </p>
             <div className='mt-4 md:mt-0'>
               {/* <ul className='flex items-center space-x-6'>

@@ -20,7 +20,7 @@ const Services = () => {
               What We Offer
             </h2>
             <p className='text-gray-600'>
-              At Bhagwati Bazaar, we provide a range of services designed to
+              At BHAGWATI BAZAAR, we provide a range of services designed to
               make your shopping experience convenient, enjoyable, and tailored
               to your needs.
             </p>
